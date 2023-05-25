@@ -22,11 +22,10 @@ Documentation available at: `/api/docs`
 
 | Name                     | Description                                                                                        |
 | ------------------------ | -------------------------------------------------------------------------------------------------- |
-| **dist/**                | Compiled source files will be placed here                                                          |
 | **src/**                 | Source files                                                                                       |
 | **src/config**           | The config directory, as the name implies, contains all of your application's configuration files. |
+| **src/utils**            | Other utility functions to use in your app.                                                        |
 | **src/api/controllers/** | REST API Controllers                                                                               |
-| **src/api/responses**    | Response classes or interfaces to type json response bodies                                        |
 | **src/api/exceptions/**  | (WIP) Custom HttpErrors like 404 NotFound                                                          |
 | **src/api/models/**      | MongDB Models                                                                                      |
 | **src/api/services/**    | Service layer                                                                                      |
