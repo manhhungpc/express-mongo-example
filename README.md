@@ -1,9 +1,3 @@
-# Introduction
-
-This is starter template for building Node.js RESTful APIs with MongoDB in Javascript.
-
-Build your millions dollar app faster and ignore hours of config and setup
-
 # Get started
 
 ```ssh
